@@ -1,4 +1,4 @@
-"""Testsq for Balloonicorn's Flask app."""
+"""Tests for Balloonicorn's Flask app."""
 
 import unittest
 import party
